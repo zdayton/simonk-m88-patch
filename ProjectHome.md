@@ -1,0 +1,1 @@
+Patches to add support for Atmega88 to SimonK ESC firmware.
